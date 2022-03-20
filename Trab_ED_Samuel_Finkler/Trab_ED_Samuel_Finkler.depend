@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1574910757 source:/home/samuel/Trab_ED_Samuel_Finkler/grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"grafo.h"
+
+1574911641 /home/samuel/Trab_ED_Samuel_Finkler/grafo.h
+
+1574908861 source:/home/samuel/Trab_ED_Samuel_Finkler/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"grafo.h"
+
+1573427370 source:/home/samuel/testeArquivo.c
+	<string.h>
+	<stdio.h>
+
